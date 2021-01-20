@@ -1,0 +1,26 @@
+body {
+    background-image: url(Images/hatter.jpg);
+}
+#cim {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p {
+    color: white;
+    margin-right: 5cm;
+    margin-left: 5cm;
+    margin-top: 1cm;
+    text-align: center;
+}
+#masodikp {
+    margin-top: 1cm;
+}
+a {
+    text-decoration: none;
+    color: lightgoldenrodyellow;
+}
+a:hover {
+    text-decoration: underline;
+    color: goldenrod;
+}
