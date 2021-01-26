@@ -6,15 +6,20 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
+.fokep {
+    margin: auto;
+    padding: 0;
+    display: block;
+    width: 300px;
+}
 p {
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
-    margin-right: 5cm;
-    margin-left: 5cm;
+    margin-right: 10cm;
+    margin-left: 10cm;
     margin-top: 1cm;
     text-align: center;
-}
-#masodikp {
-    margin-top: 1cm;
+    line-height: 0.75cm;
 }
 a {
     text-decoration: none;
@@ -23,4 +28,26 @@ a {
 a:hover {
     text-decoration: underline;
     color: goldenrod;
+}
+hr {
+    width: 80%;
+}
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding-top: 0.25cm;
+}
+#elerh {
+    color: goldenrod;
+    padding-bottom: 0.25cm;
+    font-size: 1cm;
+}
+#email {
+    padding-top: 0.25cm;
+}
+#dc {
+    padding-top: 0.25cm;
 }
